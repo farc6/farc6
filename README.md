@@ -7,12 +7,6 @@
  🌏 I’m a developer from **Malaysia!**
 
  </div>
-
- <div align="center"> 
-  <a href="mailto:extordedsuiii@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-
 # Languages And Framework Tools
 
  <p align="center">
