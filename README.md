@@ -23,5 +23,7 @@ I’ve been learning to code for 3 years, Mostly in C but im intrested in learni
 ### Support Me
 
 </div>
+</div align = "center">
 <a href="https://www.ko-fi.com/fartcan6"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/>
 </a>
+</div>
